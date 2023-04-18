@@ -1,10 +1,7 @@
 # 👋 Welcome to Socket Mobile's GitHub Channel #
-
-**The public home of Socket Mobile's SDKs and sample code**
-
 This is the public home of CaptureSDK, a unified data catpture SDK for accessing and controlling all Socket Mobile devices, including barcode readers, NFC reader/writers, barcode/NFC combo, and camera based barcode reader solutions, all in one integration. 
 
-🙋‍♀️ Commonly used repos
+## 🙋‍♀️ Commonly used repos ##
 
 ### Native iOS development ###
 | SDK   |      Sample     |  Note |
