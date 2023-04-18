@@ -22,8 +22,12 @@ Android SDK is hosted on Maven. Refer to **[this link](https://docs.socketmobile
 ### Native Windows development ###
 Windows SDK is hosted on Nuget. Refer to **[this link](https://www.nuget.org/packages/SocketMobile.Capture)** for how to add the SDK. 
 
+**Sample**
+* [Single Entry UWP](https://github.com/SocketMobile/capturesingleentry-uwp)
+
 ### Cross platform development ###
 | SDK   |      Sample     |  Note |
-|----------|:-------------:|------:|
+|----------|:-------------:|:------|
 | [CaptureSDK React Native](https://github.com/SocketMobile/react-native-capture) | [SingleEntry RN](https://github.com/SocketMobile/singleentry-rn)  | For iOS and Android |
 | [CaptureSDK Flutter](https://github.com/SocketMobile/capturesdk_flutter_snapshot) |    [Capture Flutter Sample](https://github.com/SocketMobile/capture_flutter_sdk_sample)   |   For iOS and Android|
+| [C#/Xamarin/MAUI](https://www.nuget.org/packages/SocketMobile.Capture) |    [Capture .NET MAUI Sample](https://github.com/SocketMobile/capture_maui_sdk_sample)   |   For iOS, Android and Windows|
