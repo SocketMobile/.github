@@ -1,7 +1,6 @@
 # 👋 Welcome to Socket Mobile's GitHub Channel #
 This is the public home of CaptureSDK, a unified data catpture SDK for accessing and controlling all Socket Mobile devices, including barcode readers, NFC reader/writers, barcode/NFC combo, and camera based barcode reader solutions, all in one integration. 
 
-homepage-readme-first-edition
 ## 🙋‍♀️ Commonly used repos ##
 
 ### Native iOS development ###
@@ -29,7 +28,3 @@ Windows SDK is hosted on Nuget. Refer to **[this link](https://www.nuget.org/pac
 | [CaptureSDK React Native](https://github.com/SocketMobile/react-native-capture) | [SingleEntry RN](https://github.com/SocketMobile/singleentry-rn)  | For iOS and Android |
 | [CaptureSDK Flutter](https://github.com/SocketMobile/capturesdk_flutter_snapshot) |    [Capture Flutter Sample](https://github.com/SocketMobile/capture_flutter_sdk_sample)   |   For iOS and Android|
 | [C#/Xamarin/MAUI](https://www.nuget.org/packages/SocketMobile.Capture) |    [Capture .NET MAUI Sample](https://github.com/SocketMobile/capture_maui_sdk_sample)   |   For iOS, Android and Windows|
-
-
-
-main
