@@ -10,5 +10,5 @@ Native iOS development
 | SDK   |      Sample     |  Note |
 |----------|:-------------:|------:|
 | [CaptureSDK with Swift Package Manager](https://github.com/SocketMobile/swift-package-capturesdk) |   | $1600 |
-| col 2 is |    centered   |   $12 |
+| [CaptureSDK with CocoaPods](https://github.com/SocketMobile/cocoapods-capturesdk) |    [SingleEntry Swift](https://github.com/SocketMobile/capturesingleentryswift-ios)   |   $12 |
 | col 3 is | right-aligned |    $1 |
