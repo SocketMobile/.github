@@ -2,6 +2,13 @@
 
 **the public home of Socket Mobile's SDKs and sample code**
 
-🙋‍♀️ A short introduction - what is your organization all about?
+🙋‍♀️ This is the public home of CaptureSDK, a unified data catpture SDK for accessing and controlling all Socket Mobile devices, including barcode readers, NFC reader/writers, barcode/NFC combo, and camera based barcode reader solutions, with one integration. 
 
-🌈 Contribution guidelines - how can the community get involved?
+🌈 Navigate to the repo you need
+
+Native iOS development
+| SDK   |      Sample     |  Note |
+|----------|:-------------:|------:|
+| [CaptureSDK with Swift Package Manager](https://github.com/SocketMobile/swift-package-capturesdk) |   | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
