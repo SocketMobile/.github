@@ -4,7 +4,7 @@
 
 This is the public home of CaptureSDK, a unified data catpture SDK for accessing and controlling all Socket Mobile devices, including barcode readers, NFC reader/writers, barcode/NFC combo, and camera based barcode reader solutions, all in one integration. 
 
-🙋‍♀️ Navigate to the repo you need
+🙋‍♀️ Commonly used repos
 
 ### Native iOS development ###
 | SDK   |      Sample     |  Note |
