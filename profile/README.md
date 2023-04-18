@@ -22,5 +22,5 @@ Android SDK is hosted on public repository. Refer to **[this link](https://docs.
 ### Cross platform development ###
 | SDK   |      Sample     |  Note |
 |----------|:-------------:|------:|
-| [CaptureSDK React Native](https://github.com/SocketMobile/react-native-capture) | [SingleEntry RN](https://github.com/SocketMobile/singleentry-rn)  | iOS and Android |
-| [CaptureSDK with CocoaPods](https://github.com/SocketMobile/cocoapods-capturesdk) |    [SingleEntry Swift](https://github.com/SocketMobile/capturesingleentryswift-ios)   |   Swift and Objective C |
+| [CaptureSDK React Native](https://github.com/SocketMobile/react-native-capture) | [SingleEntry RN](https://github.com/SocketMobile/singleentry-rn)  | For iOS and Android |
+| [CaptureSDK Flutter](https://github.com/SocketMobile/capturesdk_flutter_snapshot) |    [Capture Flutter Sample](https://github.com/SocketMobile/capture_flutter_sdk_sample)   |   For iOS and Android|
