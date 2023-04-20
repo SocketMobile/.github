@@ -1,13 +1,14 @@
 # 👋 Welcome to Socket Mobile's GitHub Channel #
-This is the public home of CaptureSDK, a unified data catpture SDK for accessing and controlling all Socket Mobile devices, including barcode readers, NFC reader/writers, barcode/NFC combo, and camera based barcode reader solutions, all in one integration. 
+This is the public home of CaptureSDK, a unified data catpture SDK for accessing and controlling all Socket Mobile devices, including barcode readers, NFC reader/writers, barcode/NFC combo, and camera based barcode reader solutions, all in one integration. To learn more about the SDK, check out [the documentation site](https://docs.socketmobile.com/main/en/).
 
 ## 🙋‍♀️ Commonly used repos ##
+
 
 ### Native iOS development ###
 | SDK   |      Sample     |  Note |
 |----------|:-------------:|------:|
-| [CaptureSDK with Swift Package Manager](https://github.com/SocketMobile/swift-package-capturesdk) |   | Swift and Objective C |
-| [CaptureSDK with CocoaPods](https://github.com/SocketMobile/cocoapods-capturesdk) |    [SingleEntry Swift](https://github.com/SocketMobile/capturesingleentryswift-ios)   |   Swift and Objective C |
+| [CaptureSDK with Swift Package Manager](https://github.com/SocketMobile/swift-package-capturesdk) | [SingleEntry Swift (Swift Package Maneger](https://github.com/SocketMobile/capturesingleentryswift-ios/tree/swift-package-manager)  | Swift and Objective C |
+| [CaptureSDK with CocoaPods](https://github.com/SocketMobile/cocoapods-capturesdk) |    [SingleEntry Swift](https://github.com/SocketMobile/capturesingleentryswift-ios/tree/cocoapods)   |   Swift and Objective C |
 
 ### Native Android development ###
 Android SDK is hosted on Maven. Refer to **[this link](https://docs.socketmobile.com/capture/java/en/latest/android/getting-started.html#add-the-sdk-to-your-project)** for how to add the SDK for Android or plain Java development. 
