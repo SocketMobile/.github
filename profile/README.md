@@ -6,7 +6,7 @@ This is the public home of CaptureSDK, a unified data catpture SDK for accessing
 
 ### Native iOS development ###
 | SDK   |      Sample     |  Note |
-|----------|:-------------:|------:|
+|----------|:-------------:|-------|
 | [CaptureSDK with Swift Package Manager](https://github.com/SocketMobile/swift-package-capturesdk) | [SingleEntry Swift (Swift Package Maneger](https://github.com/SocketMobile/capturesingleentryswift-ios/tree/swift-package-manager)  | Swift and Objective C |
 | [CaptureSDK with CocoaPods](https://github.com/SocketMobile/cocoapods-capturesdk) |    [SingleEntry Swift](https://github.com/SocketMobile/capturesingleentryswift-ios/tree/cocoapods)   |   Swift and Objective C |
 
