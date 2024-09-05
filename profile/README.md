@@ -1,29 +1,53 @@
-# 👋 Welcome to Socket Mobile's GitHub Channel #
+# 👋 Welcome to Socket Mobile's GitHub Channel
+
 This is the public home of CaptureSDK, a unified data capture SDK for accessing and controlling all Socket Mobile devices, including our camera based scanners C820, C860, our hardware products barcode readers, NFC reader/writers, barcode/NFC combo, all in one integration. To learn more about the SDK, check out [the documentation site](https://docs.socketmobile.com/main/en/).
 
-## 🙋‍♀️ Commonly used repos ##
+## IMPORTANT NOTE
 
+Some of our repos have been moved behind a firewall and require an access token to gain access to them.
+Please log to our [developer portal](https://www.socketmobile.com/developers/login) to gain access to these repos.
 
-### Native iOS development ###
+**We will continue to post updates in the README of each repos in this Github account.**
+
+## DON'T MISS OUT
+
+We continue everyday to improve CaptureSDK on all supported platforms. It's important you keep your application up to date with the latest version of CaptureSDK by watching the repos of the platform your application is using.
+
+Staying current with these updates reduces the effort needed between upgrades and ensures more effective data collection with our products.
+
+**We strongely recommend to watch the repositories used by your application.**
+
+## iOS development
+
+This [repository](https://github.com/SocketMobile/swift-package-capturesdk) has been moved but we will continue to update the README with the latest news, so please watch for it to not miss out on new releases.
+
 |      Sample     |  Note |
 |----------|-------|
 | [SingleEntry Swift (Swift Package Manager)](https://github.com/SocketMobile/capturesingleentryswift-ios/tree/swift-package-manager)  | Swift and Objective C |
 | [SingleEntry Swift (Cocoapods)](https://github.com/SocketMobile/capturesingleentryswift-ios/tree/cocoapods)   |   Swift and Objective C |
 
-### Native Android development ###
-Android SDK is hosted on Maven. Refer to **[this link](https://docs.socketmobile.com/capture/java/en/latest/android/getting-started.html#add-the-sdk-to-your-project)** for how to add the SDK for Android or plain Java development. 
+## Android development
+
+This [repository](https://github.com/SocketMobile/samples-android/tree/main/hellocapture) is updated at each release of the CaptureSDK for Android, you can watch for it to not miss out on new releases.
+
+Android SDK is hosted on Maven. Refer to **[this link](https://docs.socketmobile.com/capture/java/en/latest/android/getting-started.html#add-the-sdk-to-your-project)** for how to add the SDK for Android or plain Java development.
 
 **Sample:**
 * [HelloCapture](https://github.com/SocketMobile/samples-android/tree/main/hellocapture) - for barcode scanning
 * [HelloCaptureBLE](https://github.com/SocketMobile/samples-android/tree/main/hellocapture-ble-android) - for NFC reader/writer (Bluetooth LE devices)
 
-### Native Windows development ###
-Windows SDK is hosted on Nuget. Refer to **[this link](https://www.nuget.org/packages/SocketMobile.Capture)** for how to add the SDK. 
+## Windows development
+
+Windows CaptureSDK is hosted on Nuget. Refer to **[this link](https://www.nuget.org/packages/SocketMobile.Capture)** for how to add the SDK.
 
 **Sample**
 * [Single Entry UWP](https://github.com/SocketMobile/capturesingleentry-uwp)
 
-### Cross platform development ###
+## Cross platform development
+
+The CaptureSDK for the cross platforms supports SocketCam C820 and C860 and can be installed by following the instructions from our [developer portal](https://www.socketmobile.com/developers/login).
+
+The samples below need to be updated with the instructions found in the [developer portal](https://www.socketmobile.com/developers/login).
 |      Sample     |  Note |
 |----------|------|
 | [SingleEntry RN](https://github.com/SocketMobile/singleentry-rn)  | For iOS and Android |
