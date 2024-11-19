@@ -4,7 +4,11 @@ This is the public home of CaptureSDK, a unified data capture SDK for accessing 
 
 ## IMPORTANT NOTE
 
-Some of our repos have been moved behind a firewall and require an access token to gain access to them.
+### CaptureSDK Transition Announcement
+
+Our CaptureSDK is gradually moving from private to public access on GitHub, with platform support being restored incrementally. Developers interested in a specific platform can stay updated by watching the corresponding SDK repository, ensuring they receive immediate notifications about its release.
+
+The other repos are still behind a firewall and require an access token to gain access to them.
 Please log to our [Developers Portal](https://www.socketmobile.com/developers/login) to gain access to these repos.
 
 **We will continue to post updates in the README of each repos in this Github account.**
@@ -18,8 +22,6 @@ Staying current with these updates reduces the effort needed between upgrades an
 **We strongly recommend to watch the repositories used by your application.**
 
 ## iOS development
-
-This [repository](https://github.com/SocketMobile/swift-package-capturesdk) has been moved but we will continue to update the README with the latest news, so please watch for it to not miss out on new releases.
 
 |      CaptureSDK     |  Note |
 |----------|-------|
