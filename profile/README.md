@@ -69,7 +69,9 @@ Windows CaptureSDK is hosted on Nuget. Refer to **[this link](https://www.nuget.
 | [CaptureSDK - Flutter](https://github.com/SocketMobile/capturesdk_flutter) | Dart |
 | [CaptureSDK - .NET MAUI](https://github.com/SocketMobile/csharp-capturesdk) | C# |
 
-The CaptureSDK for the cross platforms supports SocketCam C820 and C860 and can be installed by following the instructions from our [Developers Portal](https://www.socketmobile.com/developers/login).
+The CaptureSDK .NET MAUI (from 1.7.34.67) is hosted and back to public on Nuget.org. Refer to **[this link](https://www.nuget.org/packages/SocketMobile.Capture)** for how to add the CaptureSDK to your .MAUI project.
+
+The CaptureSDK for the React Native and Flutter are still behind our private repository and supports SocketCam C820 and C860 and can be installed by following the instructions from our [Developers Portal](https://www.socketmobile.com/developers/login).
 
 The samples below need to be updated with the instructions found in the [Developers Portal](https://www.socketmobile.com/developers/login).
 
