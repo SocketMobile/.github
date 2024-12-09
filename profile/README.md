@@ -2,17 +2,6 @@
 
 This is the public home of CaptureSDK, a unified data capture SDK for accessing and controlling all Socket Mobile devices, including our camera based scanners C820, C860, our hardware products barcode readers, NFC reader/writers, barcode/NFC combo, all in one integration. To learn more about the SDK, check out [the documentation site](https://docs.socketmobile.com/main/en/).
 
-## IMPORTANT NOTE
-
-### CaptureSDK Transition Announcement
-
-Our CaptureSDK is gradually moving from private to public access on GitHub, with platform support being restored incrementally. Developers interested in a specific platform can stay updated by watching the corresponding SDK repository, ensuring they receive immediate notifications about its release.
-
-The other repos are still behind a firewall and require an access token to gain access to them.
-Please log to our [Developers Portal](https://www.socketmobile.com/developers/login) to gain access to these repos.
-
-**We will continue to post updates in the README of each repos in this Github account.**
-
 ## DON'T MISS OUT
 
 We continue everyday to improve CaptureSDK on all supported platforms. It's important you keep your application up to date with the latest version of CaptureSDK by watching the repos of the platform your application is using.
@@ -73,9 +62,9 @@ The CaptureSDK .NET MAUI (from 1.7.34.67) is hosted and back to public on Nuget.
 
 The React Native CaptureSDK (from 1.5.111) is back to public. Refer also to **[this link](https://www.npmjs.com/package/react-native-capture)** for how to add the CaptureSDK as a npm package.
 
-The Flutter CaptureSDK is still behind our private repository and supports SocketCam C820 and C860 and can be installed by following the instructions from our [Developers Portal](https://www.socketmobile.com/developers/login).
+The Flutter CaptureSDK (from 1.5.41) is back to public. It supports SocketCam C820 and C860 and can be installed by following the instructions from our [Developers Portal](https://www.socketmobile.dev).
 
-The samples below need to be updated with the instructions found in the [Developers Portal](https://www.socketmobile.com/developers/login).
+The samples below need to be updated with the instructions found in the [Developers Portal](https://www.socketmobile.dev).
 
 |      Sample     |  Note |
 |----------|------|
