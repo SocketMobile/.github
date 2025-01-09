@@ -1,14 +1,17 @@
-# 👋 Welcome to Socket Mobile's GitHub Channel
+# 📌 **Welcome to CaptureSDK**  
+- 🎯 **Unified SDK for data capture:** Seamlessly access and control all Socket Mobile devices.  
+- 📸 **Supports all devices:**  
+  - Camera-based scanners: **C820**, **C860**  
+  - Hardware products: **Barcode readers**, **NFC reader/writers**, **Barcode/NFC combo**  
+  - **All-in-one integration** for a simplified experience  
+- 📚 **Learn more:** Visit the [SDK documentation site](https://docs.socketmobile.dev) for detailed guidance.
 
-This is the public home of CaptureSDK, a unified data capture SDK for accessing and controlling all Socket Mobile devices, including our camera based scanners C820, C860, our hardware products barcode readers, NFC reader/writers, barcode/NFC combo, all in one integration. To learn more about the SDK, check out [the documentation site](https://docs.socketmobile.com/main/en/).
+---
 
-## DON'T MISS OUT
-
-We continue everyday to improve CaptureSDK on all supported platforms. It's important you keep your application up to date with the latest version of CaptureSDK by watching the repos of the platform your application is using.
-
-Staying current with these updates reduces the effort needed between upgrades and ensures more effective data collection with our products.
-
-**We strongly recommend to watch the repositories used by your application.**
+# 🚀 **Don’t Miss Out on Updates!**  
+- 🔧 **Continuous improvement:** We enhance CaptureSDK daily across all supported platforms.  
+- 🔔 **Stay up-to-date:** Regular updates ensure easier upgrades and better data collection performance.  
+- 👀 **Recommendation:** Watch the repositories of the platforms your application uses to stay informed about new versions.  
 
 ## iOS development
 
