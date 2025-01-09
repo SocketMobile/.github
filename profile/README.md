@@ -13,6 +13,10 @@
 - 🔔 **Stay up-to-date:** Regular updates ensure easier upgrades and better data collection performance.  
 - 👀 **Recommendation:** Watch the repositories of the platforms your application uses to stay informed about new versions.  
 
+---
+
+# 🔧 **Platforms / SDKs**
+
 ## iOS development
 
 |      CaptureSDK     |  Note |
