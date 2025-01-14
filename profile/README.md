@@ -1,4 +1,6 @@
-# 📌 **Welcome to CaptureSDK**  
+# 📌 **Welcome to CaptureSDK**
+![](./socket-banner.jpeg)
+
 - 🎯 **Unified SDK for data capture:** Seamlessly access and control all Socket Mobile devices.  
 - 📸 **Supports all devices:**  
   - Camera-based scanners: **C820**, **C860**  
