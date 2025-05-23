@@ -1,0 +1,54 @@
+name: Technical inquiry
+description: Submit a technical inquiry for CaptureSDK.
+title: 'Request: '
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Please provide all the requested information below to help you diagnose and fix the issue.**
+
+  - type: input
+    id: developerId
+    attributes:
+      label: Your Socket Mobile Developer ID
+      description: Provide your Socket Mobile Developer ID so we can identify your account.
+    validations:
+      required: true
+
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment
+      description: Provide details about your environment (OS, device, CaptureSDK version, etc...).
+      placeholder: |
+        OS version:
+        CaptureSDK version:
+        Device:
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: A clear and concise description of the request.
+      placeholder: "Describe the request here."
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected_behavior
+    attributes:
+      label: Expected Feature or Change
+      description: Describe the feature or change you would like to see.
+      placeholder: "Expected change here."
+    validations:
+      required: true
+
+  - type: textarea
+    id: additional_context
+    attributes:
+      label: Additional Context
+      description: Include any other context, logs, or screenshots.
+      placeholder: "Add extra details here (optional)."
