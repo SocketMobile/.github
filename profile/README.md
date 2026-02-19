@@ -1,5 +1,6 @@
 # 📌 **Welcome to CaptureSDK**
-![](./socket-banner.jpeg)
+
+![Socket Mobile products](./socket-banner.jpeg)
 
 - 🎯 **Unified SDK for data capture:** Seamlessly access and control all Socket Mobile devices.  
 - 📸 **Supports all devices:**  
@@ -11,9 +12,18 @@
 ---
 
 # 🚀 **Don’t Miss Out on Updates!**  
+
 - 🔧 **Continuous improvement:** We enhance CaptureSDK daily across all supported platforms.  
 - 🔔 **Stay up-to-date:** Regular updates ensure easier upgrades and better data collection performance.  
 - 👀 **Recommendation:** Watch the repositories of the platforms your application uses to stay informed about new versions.  
+
+---
+
+# 💬 **General Feedback & Issues**
+
+Have a feature request, a general improvement idea, or feedback about our [Developer Portal](https://www.socketmobile.dev)? This is the right place to share it, regardless of the platform you use.
+
+👉 [Submit a general issue](https://github.com/SocketMobile/general-issues)
 
 ---
 
