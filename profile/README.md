@@ -40,7 +40,7 @@ There's no need to migrate all your Cocoapods to Swift Package Manager all at on
 
 |      Sample     |  Note |
 |----------|-------|
-| [SingleEntry Swift (Swift Package Manager)](https://github.com/SocketMobile/capturesingleentryswift-ios/tree/swift-package-manager) | Swift and Objective C |
+| [SingleEntry Swift (Swift Package Manager)](https://github.com/SocketMobile/capturesingleentryswift-ios) | Swift and Objective C |
 
 ## Android development
 
