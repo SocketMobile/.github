@@ -35,9 +35,6 @@ Have a feature request, a general improvement idea, or feedback about our [Devel
 |----------|-------|
 | [CaptureSDK - Swift Package Manager](https://github.com/SocketMobile/swift-package-capturesdk) | Swift and Objective C |
 
-NB: Our [CaptureSDK for Cocoapods](https://github.com/SocketMobile/cocoapods-capturesdk) is also available but as Cocoapods is adding a lot complexity in a Xcode project, we strongly recommend Swift Package Manager. You can also mix Swift Package Manager and Cocoapods.
-There's no need to migrate all your Cocoapods to Swift Package Manager all at once.
-
 |      Sample     |  Note |
 |----------|-------|
 | [SingleEntry Swift (Swift Package Manager)](https://github.com/SocketMobile/capturesingleentryswift-ios) | Swift and Objective C |
